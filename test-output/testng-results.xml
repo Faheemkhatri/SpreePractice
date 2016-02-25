@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10732" started-at="2016-02-25T16:26:50Z" finished-at="2016-02-25T16:27:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10732" started-at="2016-02-25T16:26:50Z" finished-at="2016-02-25T16:27:00Z">
+      <class name="com.spree.test.qa.TestSpree">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.spree.test.qa.TestSpree@56cbfb61]" name="setUp" is-config="true" duration-ms="3533" started-at="2016-02-25T11:26:50Z" finished-at="2016-02-25T11:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.spree.test.qa.TestSpree@56cbfb61]" name="test2" duration-ms="7184" started-at="2016-02-25T11:26:53Z" finished-at="2016-02-25T11:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.spree.test.qa.TestSpree@56cbfb61]" name="tearDown" is-config="true" duration-ms="1" started-at="2016-02-25T11:27:00Z" finished-at="2016-02-25T11:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.spree.test.qa.TestSpree -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
